@@ -1,5 +1,5 @@
 # robotdev
-## Docker file to build robot developing environment image
+## Docker file to build robot develop environment image
 
 * Ubuntu 14.04 64bits
 * Build player from svn latest
